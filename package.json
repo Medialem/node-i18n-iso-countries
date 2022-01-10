@@ -126,7 +126,7 @@
   "main": "entry-node",
   "browser": "index",
   "engines": {
-    "node": ">= 12"
+    "node": ">= 10"
   },
   "scripts": {
     "test": "mocha test/*.js",
